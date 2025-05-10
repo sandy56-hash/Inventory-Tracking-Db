@@ -1,6 +1,8 @@
 **Inventory Tracking System - MySQL Database**
 **📌 Project Title**
 **Inventory Tracking System**
+![Screenshot (618)](https://github.com/user-attachments/assets/3d6951f0-8eb6-4367-878a-78a7578d2467)
+
 
 **📝 Description**
 ## This project is a complete MySQL database for managing inventory, suppliers, products, warehouses, and sales/purchase orders. It provides:
