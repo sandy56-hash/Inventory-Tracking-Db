@@ -3,14 +3,14 @@
 **Inventory Tracking System**
 
 **📝 Description**
-This project is a complete MySQL database for managing inventory, suppliers, products, warehouses, and sales/purchase orders. It provides:
+## This project is a complete MySQL database for managing inventory, suppliers, products, warehouses, and sales/purchase orders. It provides:
 ✅ Product Management – Track SKUs, categories, suppliers, stock levels
 ✅ Warehouse & Location Tracking – Manage multiple storage locations
 ✅ Purchase & Sales Orders – Record supplier orders and customer sales
 ✅ Inventory Movements – Log stock adjustments, transfers, and audits
 ✅ User & Role Management – Control system access
 
-Designed for small to medium businesses, this database ensures accurate stock tracking and reporting.
+## Designed for small to medium businesses, this database ensures accurate stock tracking and reporting.
 
 **⚙️ Setup & Installation**
 **Prerequisites**
